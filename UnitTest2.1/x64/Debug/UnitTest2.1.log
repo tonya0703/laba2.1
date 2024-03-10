@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  UnitTest2.1.cpp
+C:\Users\TONYA\source\repos\Project2.1\UnitTest2.1\UnitTest2.1.cpp(18,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+     Creating library C:\Users\TONYA\source\repos\Project2.1\x64\Debug\UnitTest2.1.lib and object C:\Users\TONYA\source\repos\Project2.1\x64\Debug\UnitTest2.1.exp
+  UnitTest2.1.vcxproj -> C:\Users\TONYA\source\repos\Project2.1\x64\Debug\UnitTest2.1.dll
